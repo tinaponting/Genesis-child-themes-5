@@ -10,6 +10,7 @@ Genesis Themes Part 5
 
 
 ::::::::::::::::::::::::::::::::::::
+
 Parts:
 PART 1: https://github.com/tinaponting/Genesis-child-themes
 
@@ -22,5 +23,6 @@ PART 3 https://github.com/tinaponting/Genesis-child-themes-3
 Part 4: https://github.com/tinaponting/Genesis-child-themes-4
 
 Part 5: https://github.com/tinaponting/Genesis-child-themes-5
+
 ::::::::::::::::::::::::::::::::::::
 

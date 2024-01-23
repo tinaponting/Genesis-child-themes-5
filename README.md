@@ -1,6 +1,7 @@
 # Genesis-child-themes-5
 Genesis Themes Part 5
 
+* Alexa, woman/personal blog
 * ansel, photo theme
 * mrs chalkboard ,very good simple template.
 * Liana, very good for Fashion or Photo blogger.

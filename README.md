@@ -1,7 +1,7 @@
 # Genesis-child-themes-5
 Genesis Themes Part 5:
 
-* Beakstedt, photo theme or shw my work theme.
+* Beaksted, photo theme or shw my work theme.
 * Cashmere theme, good theme, blogging, fashion, and so on.
 * gancez, magazine theme
 * Alexa, woman/personal blog

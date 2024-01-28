@@ -1,7 +1,7 @@
 # Genesis-child-themes-5
 Genesis Themes Part 5:
 
-
+* Cashmere theme, good theme, blogging, fashion, and so on.
 * gancez, magazine theme
 * Alexa, woman/personal blog
 * ansel, photo theme
